@@ -1,2 +1,1 @@
-"# apiBiblia"  
-"# apiBiblia" 
+API da Bíblia
